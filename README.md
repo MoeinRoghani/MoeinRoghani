@@ -11,7 +11,7 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
 
 
 ### Meme of the Day
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="256px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MoeinRoghani&icon=1&color=0)](https://visitcount.itsvg.in)
