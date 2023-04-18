@@ -1,7 +1,7 @@
 ## </ About Me>
 Bachelor's degree in Computer Science<br>Software engineer with a passion for CNN, linear optimization <br>Backend development, web development, and DevOps<br>Proficient in multiple programming languages including JavaScript, Python, C++, and Java<br>Skilled in Linux systems administration, Git, and Docker<br>Familiar with CI/CD tools such as Jenkins and GitHub Actions<br>Actively contributed to open-source projects and enjoys collaborating with others<br>Eager to learn new technologies and expand skill set
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moeinroghani/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moeinroghani/) 
 
 
 ## </ Tech Stack>
