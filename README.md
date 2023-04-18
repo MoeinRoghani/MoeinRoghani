@@ -13,7 +13,6 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23000000.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23000000.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23000000.svg?style=flat-square&logo=Keras&logoColor=white)
-
 ![R](https://img.shields.io/badge/r-%23992063.svg?style=flat-square&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23992063.svg?style=flat-square&logo=java&logoColor=white)
 ![UNITY](https://img.shields.io/badge/Unity-%23992063.svg?style=flat-square&logo=unity&logoColor=white)
@@ -21,7 +20,6 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
 ![Pandas](https://img.shields.io/badge/pandas-%23992063.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%23992063.svg?style=flat-square&logo=plotly&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23992063.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-
 ![C#](https://img.shields.io/badge/c%23-%233c2c4e.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%233c2c4e.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%233c2c4e.svg?style=flat-square&logo=javascript&logoColor=white)
@@ -30,19 +28,12 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
 ![SciPy](https://img.shields.io/badge/SciPy-%233c2c4e.svg?style=flat-square&logo=scipy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%233c2c4e.svg?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%233c2c4e.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-
 ![Haskell](https://img.shields.io/badge/Haskell-5e5e5e?style=flat-square&logo=haskell&logoColor=white)
 ![Elm](https://img.shields.io/badge/Elm-5e5e5e?style=flat-square&logo=elm&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C5C5C?style=flat-square&logo=.net&logoColor=white)
-
 ![Python](https://img.shields.io/badge/python-4b4b4b?style=flat-square&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-4b4b4b?style=flat-square&logo=Arduino&logoColor=white)
-
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
-
-
 
 
 ### Meme of the Day
