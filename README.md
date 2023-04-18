@@ -26,6 +26,15 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23000000.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%23000000.svg?style=flat-square&logo=scipy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23000000.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23232323.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23232323.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23232323.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23232323.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23232323.svg?style=flat-square&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23000000.svg?style=flat-square&logo=Keras&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%23232323.svg?style=flat-square&logo=plotly&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-4b4b4b?style=flat-square&logo=Arduino&logoColor=white)
 
 
 
