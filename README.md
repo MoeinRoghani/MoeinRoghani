@@ -28,14 +28,14 @@ Statisclly speaking, right now that you're reading this, I'm likely Catching som
 
 
 ## </ Tech Stack>
-![C](https://img.shields.io/badge/c-%23000000.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%23000000.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=flat-square&logo=html5&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23000000.svg?style=flat-square&logo=latex&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23000000.svg?style=flat-square&logo=apache&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23000000.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23000000.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23000000.svg?style=flat-square&logo=Keras&logoColor=white)
+![C](https://img.shields.io/badge/c-%23202020.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%23202020.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23202020.svg?style=flat-square&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23202020.svg?style=flat-square&logo=latex&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23202020.svg?style=flat-square&logo=apache&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23202020.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23202020.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23202020.svg?style=flat-square&logo=Keras&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23992063.svg?style=flat-square&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23992063.svg?style=flat-square&logo=java&logoColor=white)
 ![UNITY](https://img.shields.io/badge/Unity-%23992063.svg?style=flat-square&logo=unity&logoColor=white)
@@ -57,6 +57,7 @@ Statisclly speaking, right now that you're reading this, I'm likely Catching som
 ![Python](https://img.shields.io/badge/python-4b4b4b?style=flat-square&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-4b4b4b?style=flat-square&logo=Arduino&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 
 
 
