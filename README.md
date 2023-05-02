@@ -1,6 +1,6 @@
 ## </ About Me>
 Third-Year Computer Science student at McMaster<br>
-Statisclly speaking, right now that you're reading this, I'm likely Catching some Z's (29.16%), Attending my STAT course (12.5%), Enjoying a meal (8.33%), Working on my server or my website (33.3%, with a CEH certificate under my belt), and the rest 16.6% probably assignments or Netflix & Chill. Intrigued?
+Statistically speaking, right now that you're reading this, I'm likely Catching some Z's (29.16%), Attending my STAT course (12.5%), Enjoying a meal (8.33%), Working on my server or my website (33.3%, with a CEH certificate under my belt), and the rest 16.6% probably assignments or Netflix & Chill. Intrigued?
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moeinroghani/) 
