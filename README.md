@@ -26,7 +26,7 @@ Statisclly speaking, right now that you're reading this, I'm likely Catching som
   />
 </picture>
 
-
+<!--
 ## </ Tech Stack>
 ![C](https://img.shields.io/badge/c-%23202020.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%23202020.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -57,7 +57,7 @@ Statisclly speaking, right now that you're reading this, I'm likely Catching som
 ![Python](https://img.shields.io/badge/python-%23202020?style=flat-square&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-%23202020?style=flat-square&logo=Arduino&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-%23202020?style=flat-square&logo=linux&logoColor=white)
-
+-->
 
 
 
