@@ -42,18 +42,18 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.gif
+      https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.svg
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.gif
+      https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.svg
     "
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.gif"
+    src="https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.svg"
   />
 </picture>
 
