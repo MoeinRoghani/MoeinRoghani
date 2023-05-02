@@ -38,10 +38,10 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
 ## Snake
 ![snake gif](https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.gif)
 
-### Meme of the Day
+<!--### Meme of the Day
 <img src="https://rm.up.railway.app/" width="256px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MoeinRoghani&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!--# this is for size, big to small, #, ##, ###,-->
+# this is for size, big to small, #, ##, ###,-->
