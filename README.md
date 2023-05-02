@@ -37,7 +37,25 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
 
 ## Snake
 [special syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to)
-![snake gif](https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.gif)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <!--### Meme of the Day
 <img src="https://rm.up.railway.app/" width="256px"/>
