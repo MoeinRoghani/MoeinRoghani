@@ -1,5 +1,7 @@
 ## </ About Me>
-Bachelor's degree in Computer Science<br>Software engineer with a passion for CNN, linear optimization <br>Backend development, web development, and DevOps<br>Proficient in multiple programming languages including JavaScript, Python, C++, and Java<br>Skilled in Linux systems administration, Git, and Docker<br>Familiar with CI/CD tools such as Jenkins and GitHub Actions<br>Actively contributed to open-source projects and enjoys collaborating with others<br>Eager to learn new technologies and expand skill set
+Third-Year Computer Science student at McMaster<br>
+Statisclly speaking, right now that you're reading this, I'm likely Catching some Z's (29.16%), Attending my STAT course (12.5%), Enjoying a meal (8.33%), Working on my server or my website (33.3%, with a CEH certificate under my belt), and the rest 16.6% probably Completing assignments or Netflix & Chill. Intrigued?
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moeinroghani/) 
 
