@@ -35,6 +35,8 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
 ![Arduino](https://img.shields.io/badge/-Arduino-4b4b4b?style=flat-square&logo=Arduino&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+## Snake
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ### Meme of the Day
 <img src="https://rm.up.railway.app/" width="256px"/>
