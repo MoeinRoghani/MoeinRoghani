@@ -26,6 +26,14 @@ Statisclly speaking, right now that you're reading this, I'm likely Catching som
   />
 </picture>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="[github-snake.svg](https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.svg)" />
+</picture>
+
+
 ## </ Tech Stack>
 ![C](https://img.shields.io/badge/c-%23000000.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
