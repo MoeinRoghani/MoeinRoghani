@@ -3,7 +3,7 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moeinroghani/) 
 
-## </ Contribution Snake>
+## </ GitSnake>
 <!--![snake gif](https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.gif)-->
 <picture>
   <source
