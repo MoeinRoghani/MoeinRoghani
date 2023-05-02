@@ -3,6 +3,26 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moeinroghani/) 
 
+## </ Contribution Snake>
+<!--![snake gif](https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.gif)-->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## </ Tech Stack>
 ![C](https://img.shields.io/badge/c-%23000000.svg?style=flat-square&logo=c&logoColor=white)
@@ -35,27 +55,7 @@ Bachelor's degree in Computer Science<br>Software engineer with a passion for CN
 ![Arduino](https://img.shields.io/badge/-Arduino-4b4b4b?style=flat-square&logo=Arduino&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Snake
-<!--![snake gif](https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.gif)-->
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 <!--### Meme of the Day
 <img src="https://rm.up.railway.app/" width="256px"/>
