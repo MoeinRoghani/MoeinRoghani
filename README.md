@@ -5,8 +5,8 @@ Statistically speaking, right now that you're reading this, I'm likely Catching 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moeinroghani/) 
 
-## </ GitSnake>
-<!--![snake gif](https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.gif)-->
+<!--## </ GitSnake>
+![snake gif](https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.gif)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -25,6 +25,7 @@ Statistically speaking, right now that you're reading this, I'm likely Catching 
     src="https://github.com/MoeinRoghani/MoeinRoghani/blob/gh-pages/github-contribution-grid-snake.svg"
   />
 </picture>
+-->
 
 <!--
 ## </ Tech Stack>
